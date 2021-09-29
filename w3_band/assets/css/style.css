@@ -136,7 +136,7 @@ html{
     margin-top: 46px;
     padding-top: 50%;
     /* url tương đối */
-    background: url('../img/LR-29-scaled-1-1280x720.jpg') top center / cover no-repeat;
+    background: url('../img/the\ band.jpg') top center / cover no-repeat;
 }
 #slider .text-content{
     position:absolute;
